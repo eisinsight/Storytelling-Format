@@ -54,7 +54,6 @@ Focused on Excel automation, visual storytelling, and community uplift through d
 ## 📬 Feedback & Collaboration
 
 Feel free to fork, adapt, or contribute improvements.  
-For collaboration or portfolio inquiries, reach out via GitHub or LinkedIn.
+For collaboration or portfolio inquiries, reach out via GitHub or Email.
 
 
----
